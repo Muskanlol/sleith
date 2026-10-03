@@ -1,0 +1,9 @@
+.env
+.reminders_last_run
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+staff_photos/
+*.zip

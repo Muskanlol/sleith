@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+*.log
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Local secrets and data
+.env
+.env.*.local
+*.sqlite3
+db.sqlite3
+.reminders_last_run
+
+# Uploads
+backend/media/
+backend/staff_photos/
